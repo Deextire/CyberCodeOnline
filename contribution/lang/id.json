@@ -24,7 +24,7 @@
  	"ui": {
  	 	"blackMarket": {
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Print dan jual",
+ 	 	 	 	"trans": "Cetak dan jual",
  	 	 	 	"eng": "Print And Sell"
  	 	 	}
  	 	},
@@ -49,7 +49,7 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Silakan masukkan motto geng mu",
+ 	 	 	 	 	 	"trans": "Silakan masukkan motto gengmu",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
@@ -200,19 +200,19 @@
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVault": {
- 	 	 	 	"trans": "Setor barang",
+ 	 	 	 	"trans": "Setor Item",
  	 	 	 	"eng": "Deposit Item"
  	 	 	},
  	 	 	"putItemToVaultDesc": {
- 	 	 	 	"trans": "Masukkan barang ke lemari besimu",
+ 	 	 	 	"trans": "Masukkan Item ke lemari besimu",
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
- 	 	 	 	"trans": "Tarik barang",
+ 	 	 	 	"trans": "Tarik Item",
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
- 	 	 	 	"trans": "Ambil barang dari lemari besimu",
+ 	 	 	 	"trans": "Ambil Item dari lemari besimu",
  	 	 	 	"eng": "Take items out from your vault"
  	 	 	},
  	 	 	"upgradeSlot": {
@@ -253,7 +253,7 @@
  	 	 	 	 	"eng": "Upgrade Vault"
  	 	 	 	},
  	 	 	 	"confirm": {
- 	 	 	 	 	"trans": "Meningkatkan",
+ 	 	 	 	 	"trans": "Tingkatkan",
  	 	 	 	 	"eng": "Upgrade"
  	 	 	 	}
  	 	 	},
@@ -381,7 +381,7 @@
  	 	 	 	 	"eng": "${name} is about to run out in a few seconds!"
  	 	 	 	},
  	 	 	 	"refresh": {
- 	 	 	 	 	"trans": "Refresh Sekarang",
+ 	 	 	 	 	"trans": "Segarkan Sekarang",
  	 	 	 	 	"eng": "Refresh Now"
  	 	 	 	}
  	 	 	}
@@ -402,7 +402,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Obrolan geng akan diaktifkan saat Kamu menjadi anggota geng. \\ njoin geng dengan berteman dalam obrolan global atau membuat gengmu sendiri dan mengundang teman -temanmu!",
+ 	 	 	 	 	"trans": "Obrolan geng akan diaktifkan saat Kamu menjadi anggota geng. \\ njoin geng dengan berteman dalam obrolan global atau membuat gengmu sendiri dan mengundang teman - temanmu!",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
@@ -429,7 +429,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Meninggal",
+ 	 	 	 	"trans": “Elo Meningsoy",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -450,7 +450,7 @@
  	 	"equipment": {
  	 	 	"lowPrintLevelTip": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Peringkat Printing Rendah",
+ 	 	 	 	 	"trans": "Peringkat Mencetak Terlalu Rendah",
  	 	 	 	 	"eng": "Low Printing Rank"
  	 	 	 	}
  	 	 	},
@@ -459,7 +459,7 @@
  	 	 	 	"eng": "Increase your Printing Rank to create more powerful weapons by printing more caches"
  	 	 	},
  	 	 	"lowPrintLevelTip3": {
- 	 	 	 	"trans": "Atau dengan mencetak otomatis dan menjual cache mu di pasar gelap",
+ 	 	 	 	"trans": "Atau dengan mencetak otomatis dan menjual cachemu di pasar gelap",
  	 	 	 	"eng": "Or by auto print and selling your caches in the Black Market"
  	 	 	},
  	 	 	"quickSlots": {
@@ -467,7 +467,7 @@
  	 	 	 	"eng": "Quick Slots"
  	 	 	},
  	 	 	"equipped": {
- 	 	 	 	"trans": "Lengkap",
+ 	 	 	 	"trans": "Dilengkapi",
  	 	 	 	"eng": "Equipped"
  	 	 	}
  	 	},
@@ -480,7 +480,7 @@
  	 	 	},
  	 	 	"bindModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Pilih item yang dapat digunakan untuk mengikat slot cepat",
+ 	 	 	 	 	"trans": "Pilih item yang dapat digunakan untuk dikonsumsi slot cepat",
  	 	 	 	 	"eng": "Select a usable item to bind to a quick slot"
  	 	 	 	}
  	 	 	}
@@ -530,7 +530,7 @@
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Skip Global memungkinkan kamu untuk melewati waktu tunggu AFK, dan menyelesaikannya secara instan. \n     Efek ini akan diterapkan pada semua pemain yang melakukan tugas AFK",
+ 	 	 	 	 	"trans": "Skip Global memungkinkan kamu untuk melewati waktu tunggu AFK, dan menyelesaikannya secara instan.\r\n     Efek ini akan diterapkan pada semua pemain yang melakukan tugas AFK",
  	 	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all player performing AFK task"
  	 	 	 	}
  	 	 	},
@@ -553,7 +553,7 @@
  	 	 	},
  	 	 	"confirmModal": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Yakin menggunakan Skip?",
+ 	 	 	 	 	"trans": "Konfirmasi menggunakan Skip?",
  	 	 	 	 	"eng": "Confirm use skip?"
  	 	 	 	},
  	 	 	 	"subtitle": {
@@ -575,7 +575,7 @@
  	 	 	 	}
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Global skip membuatmu melewati waktu tunggu AFK, dan menyelesaikannya saat itu juga. \n     Efek ini akan diterapkan untuk semua pemain yang melakukan tugas AFK",
+ 	 	 	 	"trans": "Global skip membuatmu melewati waktu tunggu AFK, dan menyelesaikannya saat itu juga.\r\n     Efek ini akan diterapkan untuk semua pemain yang melakukan tugas AFK",
  	 	 	 	"eng": "Global Skip allow you to skip the AFK waiting time, and finish it instantly.\r\n    this effect will be applied to all players performing an AFK task"
  	 	 	}
  	 	},
@@ -587,7 +587,7 @@
  	 	},
  	 	"inventory": {
  	 	 	"items": {
- 	 	 	 	"trans": "barang",
+ 	 	 	 	"trans": "Item",
  	 	 	 	"eng": "items"
  	 	 	},
  	 	 	"secretKeys": {
@@ -596,7 +596,7 @@
  	 	 	},
  	 	 	"autoScrap": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Scrap Otomatis",
+ 	 	 	 	 	"trans": "Buang/Hancurkan Otomatis",
  	 	 	 	 	"eng": "Auto Scrap"
  	 	 	 	}
  	 	 	},
@@ -653,13 +653,13 @@
  	 	 	 	 	 	"eng": "Unlock item?"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Saat item tidak terkunci, Anda dapat memperdagangkan atau membatalkannya.",
+ 	 	 	 	 	 	"trans": "Saat item tidak terkunci, Anda dapat memperdagangkan atau membuangnya.",
  	 	 	 	 	 	"eng": "When item is unlocked, you can trade or scrap it."
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"lock": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Item kunci?",
+ 	 	 	 	 	 	"trans": "Ingin menguncinya?",
  	 	 	 	 	 	"eng": "Lock item?"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -677,14 +677,14 @@
  	 	 	 	"eng": "Unlocked"
  	 	 	},
  	 	 	"upgradeModuleTitle": {
- 	 	 	 	"trans": "Upgrade",
+ 	 	 	 	"trans": "Tingkatkan slot ${index}",
  	 	 	 	"eng": "upgrade slot ${index}",
  	 	 	 	"vars": [
  	 	 	 	 	"index"
  	 	 	 	]
  	 	 	},
  	 	 	"equip": {
- 	 	 	 	"trans": "Lengkapi",
+ 	 	 	 	"trans": "Kenakan",
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"cantEquip": {
@@ -707,15 +707,15 @@
  	 	 	 	"eng": "You can't print equipment while ${currentAction}"
  	 	 	},
  	 	 	"printCache": {
- 	 	 	 	"trans": "Print cache",
+ 	 	 	 	"trans": "Cetak cache",
  	 	 	 	"eng": "Print Cache"
  	 	 	},
  	 	 	"printCacheDescription": {
- 	 	 	 	"trans": "Ubah cache ini menjadi barang senjata atau peralatan yang Kamu bisa uae.",
+ 	 	 	 	"trans": "Ubah cache ini menjadi barang senjata atau peralatan yang Kamu bisa gunakan.",
  	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can uae."
  	 	 	},
  	 	 	"openContainer": {
- 	 	 	 	"trans": "Buka kunci wadah",
+ 	 	 	 	"trans": "Buka Kontainer",
  	 	 	 	"eng": "Unlock Container"
  	 	 	},
  	 	 	"cantOpenContainerNotIdleV2": {
@@ -741,7 +741,7 @@
  	 	 	},
  	 	 	"itemUpgradeButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "meningkatkan",
+ 	 	 	 	 	"trans": "Tingkatkan",
  	 	 	 	 	"eng": "upgrade"
  	 	 	 	}
  	 	 	},
@@ -752,11 +752,11 @@
  	 	 	 	 	 	"eng": "Are you sure you want to factory reset?"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Dengan mengatur ulang item ini, Anda akan kehilangan semua kalibrasi, namun Anda akan dapat menukarnya dengan pemain lain.",
+ 	 	 	 	 	 	"trans": "Dengan mengatur ulang item ini, Anda akan kehilangan semua peningkatan, namun Anda akan dapat menukarnya dengan pemain lain.",
  	 	 	 	 	 	"eng": "By resetting this item, you will lose all calibration, however you will be able to trade it to other players."
  	 	 	 	 	}
  	 	 	 	},
- 	 	 	 	"trans": "Pengaturan Ulang",
+ 	 	 	 	"trans": "Atur Ulang",
  	 	 	 	"eng": "Factory Reset"
  	 	 	},
  	 	 	"noItem": {
@@ -780,13 +780,13 @@
  	 	 	 	"eng": "You don't have any secret keys"
  	 	 	},
  	 	 	"noKeysSubtitle": {
- 	 	 	 	"trans": "kamu dapat memperoleh kunci rahasia dari Dungeon",
+ 	 	 	 	"trans": "kamu dapat memperoleh kunci rahasia dari Ruang Bawah Tanah",
  	 	 	 	"eng": "You can obtain secret keys from Dungeons"
  	 	 	}
  	 	},
  	 	"backToPreviusLoc": {
  	 	 	"longPressBackToCity": {
- 	 	 	 	"trans": "Tekan lama untuk kembali ke kota",
+ 	 	 	 	"trans": "Tekan lama untuk kembali ke pusat kota",
  	 	 	 	"eng": "Long press to go back to city"
  	 	 	}
  	 	},
@@ -805,7 +805,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} Lebih banyak interaksi dapat dibuka di lokasi ini, naikkan tingkat untuk membuka kunci mereka.",
+ 	 	 	 	"trans": "${hiddenCount} Lebih banyak interaksi dapat dibuka di lokasi ini, naikkan tingkatmu untuk membuka kuncinya.",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -819,7 +819,7 @@
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "Ini belum bisa dibuka, coba naikkan tingkatanmu",
+ 	 	 	 	"trans": "Ini belum terbuka, coba naikkan level karaktermu",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
@@ -835,7 +835,7 @@
  	 	 	},
  	 	 	"unlockContainerButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Buka kunci wadah",
+ 	 	 	 	 	"trans": "Buka kontainer",
  	 	 	 	 	"eng": "Unlock Container"
  	 	 	 	}
  	 	 	},
@@ -845,7 +845,7 @@
  	 	 	 	 	 	"vars": [
  	 	 	 	 	 	 	"level"
  	 	 	 	 	 	],
- 	 	 	 	 	 	"trans": "level cetak ${level} Peralatan",
+ 	 	 	 	 	 	"trans": "level mencetak ${level} Peralatan",
  	 	 	 	 	 	"eng": "printing level ${level} equipments"
  	 	 	 	 	},
  	 	 	 	 	"description": {
@@ -866,7 +866,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"skipCount"
  	 	 	 	],
- 	 	 	 	"trans": "Men-Skip ${skipCount}",
+ 	 	 	 	"trans": "Sedang Skip ${skipCount}",
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
@@ -884,7 +884,7 @@
  	 	 	 	"eng": "title"
  	 	 	},
  	 	 	"gearScore": {
- 	 	 	 	"trans": "Skor Equipment",
+ 	 	 	 	"trans": "Skor Peralatan",
  	 	 	 	"eng": "Gear Score"
  	 	 	},
  	 	 	"location": {
@@ -990,7 +990,7 @@
  	 	 	 	 	"eng": "Report Player"
  	 	 	 	},
  	 	 	 	"block": {
- 	 	 	 	 	"trans": "BLOCK Player",
+ 	 	 	 	 	"trans": "Blokir Pemain",
  	 	 	 	 	"eng": "Block Player"
  	 	 	 	}
  	 	 	},
@@ -1006,7 +1006,7 @@
  	 	"modal": {
  	 	 	"changePicture": {
  	 	 	 	"confirm": {
- 	 	 	 	 	"trans": "Saya mengerti",
+ 	 	 	 	 	"trans": "Aku mengerti",
  	 	 	 	 	"eng": "I understand"
  	 	 	 	}
  	 	 	},
@@ -1022,21 +1022,21 @@
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Kalibrasi Sukses",
+ 	 	 	 	 	"trans": "Peningkatan Sukses",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "tidak terdeteksi ERROR",
+ 	 	 	 	 	"trans": "Tidak ada kesalahan yang terdeteksi",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Yakin akan meninggalkan dungeon ini?",
+ 	 	 	 	 	"trans": "Apakah kamu yakin ingin meninggalkan penjara bawah tanah ini?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "kamu tidak akan dapat masuk dungeon ini lagi",
+ 	 	 	 	 	"trans": "kamu tidak akan dapat masuk penjara bawah tanah ini lagi",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1053,7 +1053,7 @@
  	 	 	 	"eng": "Look around"
  	 	 	},
  	 	 	"myStall": {
- 	 	 	 	"trans": "Lapak Saya",
+ 	 	 	 	"trans": "Kiosku",
  	 	 	 	"eng": "My Stall"
  	 	 	},
  	 	 	"increaseSlot": {
@@ -1067,22 +1067,22 @@
  	 	 	 	"vars": [
  	 	 	 	 	"nextSlotSize"
  	 	 	 	],
- 	 	 	 	"trans": "Gunakan Bitcoin untuk meningkatkan banyak barang yang dapat kamu masukkan ke lapak",
+ 	 	 	 	"trans": "Gunakan Bitcoin untuk meningkatkan jumlah item yang dapat kamu masukkan ke dalam kiosmu pada saat yang bersamaan",
  	 	 	 	"eng": "Spend Bitcoins to increase how many items you can put in your stall at the same time"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Kamu perlu setidaknya Level 4 untuk mengakses pasar",
+ 	 	 	 	"trans": "Kamu harus berada di level 4 untuk mengakses pasar",
  	 	 	 	"eng": "You need to be at least level 4 to access the market"
  	 	 	},
  	 	 	"levelSelect": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Tingkat",
+ 	 	 	 	 	"trans": "Level",
  	 	 	 	 	"eng": "Level"
  	 	 	 	}
  	 	 	},
  	 	 	"tierSelection": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Tingkat Kelangkaan",
+ 	 	 	 	 	"trans": "Kelangkaan",
  	 	 	 	 	"eng": "Rarity"
  	 	 	 	}
  	 	 	},
@@ -1100,30 +1100,30 @@
  	 	 	},
  	 	 	"stall": {
  	 	 	 	"sellItemButton": {
- 	 	 	 	 	"trans": "Letakkan barang yang akan dijual",
+ 	 	 	 	 	"trans": "Jual Item",
  	 	 	 	 	"eng": "Put Item On Sale"
  	 	 	 	},
  	 	 	 	"selectItemForSale": {
- 	 	 	 	 	"trans": "Silakan pilih barang yang ingin Kamu jual",
+ 	 	 	 	 	"trans": "Silahkan pilih item yang ingin kamu jual",
  	 	 	 	 	"eng": "Please select the item you want to sell"
  	 	 	 	}
  	 	 	}
  	 	},
  	 	"afkTask": {
  	 	 	"newbieTip": {
- 	 	 	 	"trans": "Tugas akan berlanjut meski Kamu menutup permainan",
+ 	 	 	 	"trans": "Tugas akan terus berlanjut meskipun kamu menutup permainan",
  	 	 	 	"eng": "The task will continue even if you close the game"
  	 	 	},
  	 	 	"syncing": {
- 	 	 	 	"trans": "Sinkronisasi",
+ 	 	 	 	"trans": "Menyinkronkan",
  	 	 	 	"eng": "Syncing"
  	 	 	},
  	 	 	"incompleteError": {
- 	 	 	 	"trans": "Harap pastikan waktu perangkatmu benar.",
+ 	 	 	 	"trans": "Pastikan waktu perangkatmu sudah benar.",
  	 	 	 	"eng": "Please ensure your device time is correct."
  	 	 	},
  	 	 	"manualRefresh": {
- 	 	 	 	"trans": "Refresh manual",
+ 	 	 	 	"trans": "Penyegaran Manual",
  	 	 	 	"eng": "Manual Refresh"
  	 	 	},
  	 	 	"abort": {
@@ -1138,7 +1138,7 @@
  	 	 	},
  	 	 	"stallShortcut": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Kios saya",
+ 	 	 	 	 	"trans": "Kiosku",
  	 	 	 	 	"eng": "My Stall"
  	 	 	 	}
  	 	 	},
@@ -1177,21 +1177,21 @@
  	 	 	 	},
  	 	 	 	"printingTooLow": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Tingkatkan Percetakan Peringkat",
+ 	 	 	 	 	 	"trans": "Tingkatkan peringkat pencetakan",
  	 	 	 	 	 	"eng": "Improve Printing Rank"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Percetakan peringkat menentukan Level item yang Kamu cetak. Dapatkan Printing Exp dengan Print & Jual di Pasar Hitam",
+ 	 	 	 	 	 	"trans": "Peringkat Pencetakan menentukan tingkat item yang kamu cetak. Dapatkan EXP pencetakan dengan mencetak & menjual di Pasar Gelap",
  	 	 	 	 	 	"eng": "Printing Rank determines the level of item you print. Gain printing exp by print & sell in Black Market"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"gearTooWeak": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Dapatkan peralatan yang lebih baik!",
+ 	 	 	 	 	 	"trans": "Dapatkan peralatan yang lebih baik lagi!",
  	 	 	 	 	 	"eng": "Get even better equipments!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Peralatan Kamu saat ini tampaknya ketinggalan jabatan untuk levelmu, coba Print yang lebih kuat untuk menggantinya",
+ 	 	 	 	 	 	"trans": "Peralatanmu saat ini sepertinya sudah ketinggalan zaman untuk levelmu, cobalah mencetak peralatan yang lebih kuat untuk menggantikannya",
  	 	 	 	 	 	"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
  	 	 	 	 	}
  	 	 	 	},
@@ -1204,7 +1204,7 @@
  	 	 	 	 	 	"vars": [
  	 	 	 	 	 	 	"itemName"
  	 	 	 	 	 	],
- 	 	 	 	 	 	"trans": "Kamu dapat memutakhirkan peralatanmu dengan menggunakan ${itemName}",
+ 	 	 	 	 	 	"trans": "Anda dapat meningkatkan peralatan Anda dengan menggunakan ${itemName}",
  	 	 	 	 	 	"eng": "You can upgrade your equipment by using the ${itemName}"
  	 	 	 	 	}
  	 	 	 	},
